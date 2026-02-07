@@ -172,7 +172,7 @@ export function ExperienceSection() {
               <p class="text-gray-400 mt-1">April 2025 - October 2025</p>
             </div>
             <a href="https://www.amadeus.com" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 bg-neutral-800/50 px-4 py-2 rounded-xl border border-neutral-700 hover:bg-neutral-800 hover:border-neutral-600 hover:scale-105 transition-all duration-300 cursor-pointer group">
-              <img src="/images/amadeus.jpg" alt="AMADEUS" class="h-8 w-8 object-contain group-hover:scale-110 transition-transform duration-300" />
+              <img src="images/amadeus.jpg" alt="AMADEUS" class="h-8 w-8 object-contain group-hover:scale-110 transition-transform duration-300" />
               <span class="text-sm md:text-base text-yellow-400 font-medium group-hover:text-yellow-300 transition-colors duration-300">@AMADEUS</span>
             </a>
           </div>
@@ -242,28 +242,28 @@ export function ExperienceSection() {
             <div class="rounded-lg overflow-hidden bg-neutral-800/50 border border-neutral-700">
               <div class="h-full flex items-center justify-center rounded-lg relative min-h-[300px]">
                 <div id="experience-carousel-track" class="flex transition-transform duration-700 w-full h-full">
-                  <img src="/images/norwegian.png" alt="Angular Feature Development" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
-                  <img src="/images/code.png" alt="Angular Refactoring" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
-                  <img src="/images/API.jpg" alt="Spring Boot API" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/norwegian.png" alt="Angular Feature Development" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/code.png" alt="Angular Refactoring" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/API.jpg" alt="Spring Boot API" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
                 </div>
               </div>
             </div>
           </div>
           <div class="flex flex-wrap gap-4 mb-6 mt-6 justify-center" id="experience-logos-row">
             <span id="exp-logo-0" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/angular.png" alt="Angular" class="h-6 w-6 object-contain" /> Angular
+              <img src="images/angular.png" alt="Angular" class="h-6 w-6 object-contain" /> Angular
             </span>
             <span id="exp-logo-1" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/ts.png" alt="TypeScript" class="h-6 w-6 object-contain" /> TypeScript
+              <img src="images/ts.png" alt="TypeScript" class="h-6 w-6 object-contain" /> TypeScript
             </span>
             <span id="exp-logo-2" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/springboot.png" alt="Spring Boot" class="h-6 w-6 object-contain" /> Spring Boot
+              <img src="images/springboot.png" alt="Spring Boot" class="h-6 w-6 object-contain" /> Spring Boot
             </span>
             <span id="exp-logo-3" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/java.png" alt="Java" class="h-6 w-6 object-contain" /> Java
+              <img src="images/java.png" alt="Java" class="h-6 w-6 object-contain" /> Java
             </span>
             <span id="exp-logo-4" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/agile.png" alt="Agile" class="h-6 w-6 object-contain" /> Agile/Scrum
+              <img src="images/agile.png" alt="Agile" class="h-6 w-6 object-contain" /> Agile/Scrum
             </span>
           </div>
         </div>
@@ -276,7 +276,7 @@ export function ExperienceSection() {
               <p class="text-gray-400 mt-1">February 2024 - August 2024</p>
             </div>
             <a href="https://www.sfr.fr" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 bg-neutral-800/50 px-4 py-2 rounded-xl border border-neutral-700 hover:bg-neutral-800 hover:border-neutral-600 hover:scale-105 transition-all duration-300 cursor-pointer group">
-              <img src="/images/sfr.png" alt="SFR" class="h-8 w-8 object-contain group-hover:scale-110 transition-transform duration-300" />
+              <img src="images/sfr.png" alt="SFR" class="h-8 w-8 object-contain group-hover:scale-110 transition-transform duration-300" />
               <span class="text-sm md:text-base text-yellow-400 font-medium group-hover:text-yellow-300 transition-colors duration-300">@SFR</span>
             </a>
           </div>
@@ -326,27 +326,27 @@ export function ExperienceSection() {
             <div class="rounded-lg overflow-hidden bg-neutral-800/50 border border-neutral-700">
               <div class="h-full flex items-center justify-center rounded-lg relative min-h-[300px]">
                 <div id="sfr-carousel-track" class="flex transition-transform duration-700 w-full h-full">
-                  <img src="/images/dash.webp" alt="Python Data Analysis Dashboard" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
-                  <img src="/images/reccurenceanalyzer.png" alt="Angular Spring Application" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/dash.webp" alt="Python Data Analysis Dashboard" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/reccurenceanalyzer.png" alt="Angular Spring Application" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
                 </div>
               </div>
             </div>
           </div>
           <div class="flex flex-wrap gap-4 mb-6 mt-6 justify-center" id="sfr-logos-row">
             <span id="sfr-logo-0" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/python.png" alt="Python" class="h-6 w-6 object-contain" /> Python
+              <img src="images/python.png" alt="Python" class="h-6 w-6 object-contain" /> Python
             </span>
             <span id="sfr-logo-1" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/angular.png" alt="Angular" class="h-6 w-6 object-contain" /> Angular
+              <img src="images/angular.png" alt="Angular" class="h-6 w-6 object-contain" /> Angular
             </span>
             <span id="sfr-logo-2" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/springboot.png" alt="Spring Boot" class="h-6 w-6 object-contain" /> Spring Boot
+              <img src="images/springboot.png" alt="Spring Boot" class="h-6 w-6 object-contain" /> Spring Boot
             </span>
             <span id="sfr-logo-3" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/mysql.png" alt="MySQL" class="h-6 w-6 object-contain" /> MySQL
+              <img src="images/mysql.png" alt="MySQL" class="h-6 w-6 object-contain" /> MySQL
             </span>
             <span id="sfr-logo-4" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/pandas.png" alt="Pandas" class="h-6 w-6 object-contain" /> Pandas
+              <img src="images/pandas.png" alt="Pandas" class="h-6 w-6 object-contain" /> Pandas
             </span>
           </div>
         </div>

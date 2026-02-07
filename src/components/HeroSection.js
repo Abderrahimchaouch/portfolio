@@ -144,7 +144,7 @@ export function HeroSection() {
           <img
             src="images/abderrahimc.jpg"
             alt="Abderrahim"
-            class="relative w-64 h-80 object-cover rounded-3xl shadow-2xl z-10"
+            class="relative w-64 h-80 obgit ject-cover rounded-3xl shadow-2xl z-10"
           />
         </div>
       </div>

@@ -41,12 +41,12 @@ export function AboutSection() {
           <div class="bg-black rounded-full flex items-center justify-center w-64 h-64 md:w-80 md:h-80">
             <div class="relative w-40 h-40 md:w-64 md:h-64 group">
               <img
-                src="/images/ae-removebg-preview.png"
+                src="images/ae-removebg-preview.png"
                 alt="AE Logo"
                 class="absolute inset-0 w-full h-full object-contain transition-opacity duration-500 group-hover:opacity-0"
               />
               <img
-                src="/images/IMG_20250330_215752_781.webp"
+                src="images/IMG_20250330_215752_781.webp"
                 alt="Adam"
                 class="absolute inset-0 w-full h-full object-cover rounded-full opacity-0 transition-opacity duration-500 group-hover:opacity-100"
               />

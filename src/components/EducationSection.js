@@ -251,7 +251,7 @@ export function EducationSection() {
         <!-- ENIB Brest -->
         <div class="flex flex-col md:flex-row items-center md:items-start gap-6 bg-white/10 backdrop-blur-md rounded-2xl p-6 shadow-lg border border-white/10 transition-transform hover:scale-105 hover:shadow-2xl appear-on-scroll relative z-20">
           <div class="flex-shrink-0 flex items-center justify-center w-24 h-24 bg-black/30 rounded-xl">
-            <img src="https://wiki.lesfabriquesduponant.net/images/4/48/Logo-enib.png" alt="ENIB Brest Logo" class="object-contain h-16" />
+            <img src="https://wiki.lesfabriquesduponant.netimages/4/48/Logo-enib.png" alt="ENIB Brest Logo" class="object-contain h-16" />
           </div>
           <div class="flex-1 text-center md:text-left">
             <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
@@ -266,7 +266,7 @@ export function EducationSection() {
         <!-- IAE UBO Brest -->
         <div class="flex flex-col md:flex-row items-center md:items-start gap-6 bg-white/10 backdrop-blur-md rounded-2xl p-6 shadow-lg border border-white/10 transition-transform hover:scale-105 hover:shadow-2xl appear-on-scroll relative z-20">
           <div class="flex-shrink-0 flex items-center justify-center w-24 h-24 bg-black/30 rounded-xl">
-            <img src="/images/iae.png" alt="IAE Brest Logo" class="object-contain h-20" />
+            <img src="images/iae.png" alt="IAE Brest Logo" class="object-contain h-20" />
           </div>
           <div class="flex-1 text-center md:text-left">
             <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
@@ -281,7 +281,7 @@ export function EducationSection() {
         <!-- ESTM Meknes -->
         <div class="flex flex-col md:flex-row items-center md:items-start gap-6 bg-white/10 backdrop-blur-md rounded-2xl p-6 shadow-lg border border-white/10 transition-transform hover:scale-105 hover:shadow-2xl appear-on-scroll relative z-20">
           <div class="flex-shrink-0 flex items-center justify-center w-24 h-24 bg-black/30 rounded-xl">
-            <img src="/images/estm.png" alt="ESTM Meknes Logo" class="object-contain h-16" />
+            <img src="images/estm.png" alt="ESTM Meknes Logo" class="object-contain h-16" />
           </div>
           <div class="flex-1 text-center md:text-left">
             <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
