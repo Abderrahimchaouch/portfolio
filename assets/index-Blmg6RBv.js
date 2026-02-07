@@ -273,12 +273,12 @@
           <div class="bg-black rounded-full flex items-center justify-center w-64 h-64 md:w-80 md:h-80">
             <div class="relative w-40 h-40 md:w-64 md:h-64 group">
               <img
-                src="/images/ae-removebg-preview.png"
+                src="images/ae-removebg-preview.png"
                 alt="AE Logo"
                 class="absolute inset-0 w-full h-full object-contain transition-opacity duration-500 group-hover:opacity-0"
               />
               <img
-                src="/images/IMG_20250330_215752_781.webp"
+                src="images/IMG_20250330_215752_781.webp"
                 alt="Adam"
                 class="absolute inset-0 w-full h-full object-cover rounded-full opacity-0 transition-opacity duration-500 group-hover:opacity-100"
               />
@@ -318,7 +318,7 @@
         <!-- ENIB Brest -->
         <div class="flex flex-col md:flex-row items-center md:items-start gap-6 bg-white/10 backdrop-blur-md rounded-2xl p-6 shadow-lg border border-white/10 transition-transform hover:scale-105 hover:shadow-2xl appear-on-scroll relative z-20">
           <div class="flex-shrink-0 flex items-center justify-center w-24 h-24 bg-black/30 rounded-xl">
-            <img src="https://wiki.lesfabriquesduponant.net/images/4/48/Logo-enib.png" alt="ENIB Brest Logo" class="object-contain h-16" />
+            <img src="https://wiki.lesfabriquesduponant.netimages/4/48/Logo-enib.png" alt="ENIB Brest Logo" class="object-contain h-16" />
           </div>
           <div class="flex-1 text-center md:text-left">
             <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
@@ -333,7 +333,7 @@
         <!-- IAE UBO Brest -->
         <div class="flex flex-col md:flex-row items-center md:items-start gap-6 bg-white/10 backdrop-blur-md rounded-2xl p-6 shadow-lg border border-white/10 transition-transform hover:scale-105 hover:shadow-2xl appear-on-scroll relative z-20">
           <div class="flex-shrink-0 flex items-center justify-center w-24 h-24 bg-black/30 rounded-xl">
-            <img src="/images/iae.png" alt="IAE Brest Logo" class="object-contain h-20" />
+            <img src="images/iae.png" alt="IAE Brest Logo" class="object-contain h-20" />
           </div>
           <div class="flex-1 text-center md:text-left">
             <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
@@ -348,7 +348,7 @@
         <!-- ESTM Meknes -->
         <div class="flex flex-col md:flex-row items-center md:items-start gap-6 bg-white/10 backdrop-blur-md rounded-2xl p-6 shadow-lg border border-white/10 transition-transform hover:scale-105 hover:shadow-2xl appear-on-scroll relative z-20">
           <div class="flex-shrink-0 flex items-center justify-center w-24 h-24 bg-black/30 rounded-xl">
-            <img src="/images/estm.png" alt="ESTM Meknes Logo" class="object-contain h-16" />
+            <img src="images/estm.png" alt="ESTM Meknes Logo" class="object-contain h-16" />
           </div>
           <div class="flex-1 text-center md:text-left">
             <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
@@ -378,41 +378,41 @@
         <button class="px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-medium shadow hover:bg-red-700 transition-all" data-skilltype="soft">Soft Skills</button>
       </div>
       <div class="flex flex-wrap gap-3 justify-center" id="skills-list">
-        <a href="https://www.python.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/python.png" class="h-5 w-5 object-contain mr-2" alt="Python"/>Python</a>
-        <a href="https://www.java.com/fr/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/java.png" class="h-5 w-5 object-contain mr-2" alt="Java"/>Java</a>
-        <a href="https://www.springboot.com/fr/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/springboot.png" class="h-5 w-5 object-contain mr-2" alt="Spring Boot"/>Spring-Boot</a>
-        <a href="https://www.angular.com/fr/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/angular.png" class="h-5 w-5 object-contain mr-2" alt="angular"/>Angular</a>
-        <a href="https://cplusplus.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/Cpp.png"  class="h-5 w-5 object-contain mr-2" alt="C++"/>C++</a>
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/js.png" class="h-5 w-5 object-contain mr-2" alt="JavaScript"/>Javascript</a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/ts.png" class="h-5 w-5 object-contain mr-2" alt="Typescript"/>Typescript</a>
+        <a href="https://www.python.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/python.png" class="h-5 w-5 object-contain mr-2" alt="Python"/>Python</a>
+        <a href="https://www.java.com/fr/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/java.png" class="h-5 w-5 object-contain mr-2" alt="Java"/>Java</a>
+        <a href="https://www.springboot.com/fr/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/springboot.png" class="h-5 w-5 object-contain mr-2" alt="Spring Boot"/>Spring-Boot</a>
+        <a href="https://www.angular.com/fr/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/angular.png" class="h-5 w-5 object-contain mr-2" alt="angular"/>Angular</a>
+        <a href="https://cplusplus.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/Cpp.png"  class="h-5 w-5 object-contain mr-2" alt="C++"/>C++</a>
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/js.png" class="h-5 w-5 object-contain mr-2" alt="JavaScript"/>Javascript</a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/ts.png" class="h-5 w-5 object-contain mr-2" alt="Typescript"/>Typescript</a>
         <a href="https://webassembly.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev">Assembly</a>
-        <a href="https://react.dev/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/react.png" class="h-5 w-5 object-contain mr-2" alt="React"/>React</a>
-        <a href="https://nodejs.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/nodejs.png" class="h-5 w-5 object-contain mr-2" alt="Node.js"/>Node.js</a>
-        <a href="https://nextjs.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/nextjs.png" class="h-5 w-5 object-contain mr-2" alt="Next.js"/>Next.js</a>
-        <a href="https://expressjs.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/expressjs.png" class="h-5 w-5 object-contain mr-2" alt="Express.js"/>Express.js</a>
+        <a href="https://react.dev/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/react.png" class="h-5 w-5 object-contain mr-2" alt="React"/>React</a>
+        <a href="https://nodejs.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/nodejs.png" class="h-5 w-5 object-contain mr-2" alt="Node.js"/>Node.js</a>
+        <a href="https://nextjs.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/nextjs.png" class="h-5 w-5 object-contain mr-2" alt="Next.js"/>Next.js</a>
+        <a href="https://expressjs.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/expressjs.png" class="h-5 w-5 object-contain mr-2" alt="Express.js"/>Express.js</a>
         <a href="https://pypi.org/project/Flask/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev">Flask</a>        
-        <a href="https://tailwindcss.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/Tailwind.png" class="h-5 w-5 object-contain mr-2" alt="TailwindCSS"/>TailwindCSS</a>
-        <a href="https://github.com/ELALAMIADAM/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="/images/github.png" class="h-5 w-5 object-contain mr-2" alt="Github"/>Github</a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="/images/VS.png" class="h-5 w-5 object-contain mr-2" alt="Visual Studio Code"/>Visual Studio Code</a>
-        <a href="https://www.cursor.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="/images/cursor.jpeg" class="h-5 w-5 object-contain mr-2" alt="Cursor"/>Cursor</a>
-        <a href="https://www.eclipse.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="/images/eclipse_94656.webp" class="h-5 w-5 object-contain mr-2" alt="Eclipse"/>Eclipse</a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="/images/idea.webp" class="h-5 w-5 object-contain mr-2" alt="IntelliJ IDEA"/>IntelliJ IDEA</a>
-        <a href="https://www.docker.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="/images/docker.png" class="h-5 w-5 object-contain mr-2" alt="Docker"/>Docker</a>
-        <a href="https://www.oracle.com/analytics/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/oracle.png" class="h-5 w-5 object-contain mr-2" alt="Oracle Analytics"/>Oracle Analytics</a>
-        <a href="https://www.starburst.io/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/starburst.png" class="h-5 w-5 object-contain mr-2" alt="Starburst"/>Starburst</a>
-        <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/ETL.png" class="h-5 w-5 object-contain mr-2" alt="ETL"/>ETL</a>
-        <a href="https://pig.apache.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/pig.png" class="h-5 w-5 object-contain mr-2" alt="PIG Latin"/>PIG Latin</a>
-        <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/nlp.png" class="h-5 w-5 object-contain mr-2" alt="NLP"/>NLP</a>
-        <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/ML.png" class="h-5 w-5 object-contain mr-2" alt="ML & DL"/>ML & DL</a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/sqlite.png" class="h-5 w-5 object-contain mr-2" alt="SQLite"/>SQLite</a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/mysql.png" class="h-5 w-5 object-contain mr-2" alt="MySQL"/>MySQL</a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/postgres.png" class="h-5 w-5 object-contain mr-2" alt="PostgreSQL"/>PostgreSQL</a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/mongo.png" class="h-5 w-5 object-contain mr-2" alt="MongoDB"/>MongoDB</a>
-        <a href="https://streamlit.io/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="/images/streamlit.png" class="h-5 w-5 object-contain mr-2" alt="Streamlit"/>Streamlit</a>
-        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="/images/jira.png" class="h-5 w-5 object-contain mr-2" alt="Jira"/>Jira</a>
-        <a href="https://en.wikipedia.org/wiki/Teamwork" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="soft"><img src="/images/3135715.png" class="h-5 w-5 object-contain mr-2" alt="Teamwork"/>Teamwork</a>
-        <a href="https://en.wikipedia.org/wiki/Communication" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="soft"><img src="/images/190411.png" class="h-5 w-5 object-contain mr-2" alt="Communication"/>Communication</a>
-        <a href="https://en.wikipedia.org/wiki/Problem_solving" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="soft"><img src="/images/1828884.png" class="h-5 w-5 object-contain mr-2" alt="Problem Solving"/>Problem Solving</a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/Tailwind.png" class="h-5 w-5 object-contain mr-2" alt="TailwindCSS"/>TailwindCSS</a>
+        <a href="https://github.com/ELALAMIADAM/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="dev"><img src="images/github.png" class="h-5 w-5 object-contain mr-2" alt="Github"/>Github</a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="images/VS.png" class="h-5 w-5 object-contain mr-2" alt="Visual Studio Code"/>Visual Studio Code</a>
+        <a href="https://www.cursor.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="images/cursor.jpeg" class="h-5 w-5 object-contain mr-2" alt="Cursor"/>Cursor</a>
+        <a href="https://www.eclipse.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="images/eclipse_94656.webp" class="h-5 w-5 object-contain mr-2" alt="Eclipse"/>Eclipse</a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="images/idea.webp" class="h-5 w-5 object-contain mr-2" alt="IntelliJ IDEA"/>IntelliJ IDEA</a>
+        <a href="https://www.docker.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="images/docker.png" class="h-5 w-5 object-contain mr-2" alt="Docker"/>Docker</a>
+        <a href="https://www.oracle.com/analytics/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/oracle.png" class="h-5 w-5 object-contain mr-2" alt="Oracle Analytics"/>Oracle Analytics</a>
+        <a href="https://www.starburst.io/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/starburst.png" class="h-5 w-5 object-contain mr-2" alt="Starburst"/>Starburst</a>
+        <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/ETL.png" class="h-5 w-5 object-contain mr-2" alt="ETL"/>ETL</a>
+        <a href="https://pig.apache.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/pig.png" class="h-5 w-5 object-contain mr-2" alt="PIG Latin"/>PIG Latin</a>
+        <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/nlp.png" class="h-5 w-5 object-contain mr-2" alt="NLP"/>NLP</a>
+        <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/ML.png" class="h-5 w-5 object-contain mr-2" alt="ML & DL"/>ML & DL</a>
+        <a href="https://www.sqlite.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/sqlite.png" class="h-5 w-5 object-contain mr-2" alt="SQLite"/>SQLite</a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/mysql.png" class="h-5 w-5 object-contain mr-2" alt="MySQL"/>MySQL</a>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/postgres.png" class="h-5 w-5 object-contain mr-2" alt="PostgreSQL"/>PostgreSQL</a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/mongo.png" class="h-5 w-5 object-contain mr-2" alt="MongoDB"/>MongoDB</a>
+        <a href="https://streamlit.io/" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="data"><img src="images/streamlit.png" class="h-5 w-5 object-contain mr-2" alt="Streamlit"/>Streamlit</a>
+        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="Tools"><img src="images/jira.png" class="h-5 w-5 object-contain mr-2" alt="Jira"/>Jira</a>
+        <a href="https://en.wikipedia.org/wiki/Teamwork" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="soft"><img src="images/3135715.png" class="h-5 w-5 object-contain mr-2" alt="Teamwork"/>Teamwork</a>
+        <a href="https://en.wikipedia.org/wiki/Communication" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="soft"><img src="images/190411.png" class="h-5 w-5 object-contain mr-2" alt="Communication"/>Communication</a>
+        <a href="https://en.wikipedia.org/wiki/Problem_solving" target="_blank" rel="noopener" class="skill-pill flex items-center px-4 py-1 rounded-lg border border-neutral-700 bg-neutral-900/80 text-white text-sm font-mono font-medium shadow transition-all gap-2" data-skilltype="soft"><img src="images/1828884.png" class="h-5 w-5 object-contain mr-2" alt="Problem Solving"/>Problem Solving</a>
       </div>
       <p class="text-center text-white/70 mt-6">...and many more!</p>
     </div>
@@ -431,7 +431,7 @@
               <p class="text-gray-400 mt-1">April 2025 - October 2025</p>
             </div>
             <a href="https://www.amadeus.com" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 bg-neutral-800/50 px-4 py-2 rounded-xl border border-neutral-700 hover:bg-neutral-800 hover:border-neutral-600 hover:scale-105 transition-all duration-300 cursor-pointer group">
-              <img src="/images/amadeus.jpg" alt="AMADEUS" class="h-8 w-8 object-contain group-hover:scale-110 transition-transform duration-300" />
+              <img src="images/amadeus.jpg" alt="AMADEUS" class="h-8 w-8 object-contain group-hover:scale-110 transition-transform duration-300" />
               <span class="text-sm md:text-base text-yellow-400 font-medium group-hover:text-yellow-300 transition-colors duration-300">@AMADEUS</span>
             </a>
           </div>
@@ -501,28 +501,28 @@
             <div class="rounded-lg overflow-hidden bg-neutral-800/50 border border-neutral-700">
               <div class="h-full flex items-center justify-center rounded-lg relative min-h-[300px]">
                 <div id="experience-carousel-track" class="flex transition-transform duration-700 w-full h-full">
-                  <img src="/images/norwegian.png" alt="Angular Feature Development" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
-                  <img src="/images/code.png" alt="Angular Refactoring" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
-                  <img src="/images/API.jpg" alt="Spring Boot API" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/norwegian.png" alt="Angular Feature Development" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/code.png" alt="Angular Refactoring" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/API.jpg" alt="Spring Boot API" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
                 </div>
               </div>
             </div>
           </div>
           <div class="flex flex-wrap gap-4 mb-6 mt-6 justify-center" id="experience-logos-row">
             <span id="exp-logo-0" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/angular.png" alt="Angular" class="h-6 w-6 object-contain" /> Angular
+              <img src="images/angular.png" alt="Angular" class="h-6 w-6 object-contain" /> Angular
             </span>
             <span id="exp-logo-1" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/ts.png" alt="TypeScript" class="h-6 w-6 object-contain" /> TypeScript
+              <img src="images/ts.png" alt="TypeScript" class="h-6 w-6 object-contain" /> TypeScript
             </span>
             <span id="exp-logo-2" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/springboot.png" alt="Spring Boot" class="h-6 w-6 object-contain" /> Spring Boot
+              <img src="images/springboot.png" alt="Spring Boot" class="h-6 w-6 object-contain" /> Spring Boot
             </span>
             <span id="exp-logo-3" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/java.png" alt="Java" class="h-6 w-6 object-contain" /> Java
+              <img src="images/java.png" alt="Java" class="h-6 w-6 object-contain" /> Java
             </span>
             <span id="exp-logo-4" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/agile.png" alt="Agile" class="h-6 w-6 object-contain" /> Agile/Scrum
+              <img src="images/agile.png" alt="Agile" class="h-6 w-6 object-contain" /> Agile/Scrum
             </span>
           </div>
         </div>
@@ -535,7 +535,7 @@
               <p class="text-gray-400 mt-1">February 2024 - August 2024</p>
             </div>
             <a href="https://www.sfr.fr" target="_blank" rel="noopener noreferrer" class="flex items-center gap-3 bg-neutral-800/50 px-4 py-2 rounded-xl border border-neutral-700 hover:bg-neutral-800 hover:border-neutral-600 hover:scale-105 transition-all duration-300 cursor-pointer group">
-              <img src="/images/sfr.png" alt="SFR" class="h-8 w-8 object-contain group-hover:scale-110 transition-transform duration-300" />
+              <img src="images/sfr.png" alt="SFR" class="h-8 w-8 object-contain group-hover:scale-110 transition-transform duration-300" />
               <span class="text-sm md:text-base text-yellow-400 font-medium group-hover:text-yellow-300 transition-colors duration-300">@SFR</span>
             </a>
           </div>
@@ -585,27 +585,27 @@
             <div class="rounded-lg overflow-hidden bg-neutral-800/50 border border-neutral-700">
               <div class="h-full flex items-center justify-center rounded-lg relative min-h-[300px]">
                 <div id="sfr-carousel-track" class="flex transition-transform duration-700 w-full h-full">
-                  <img src="/images/dash.webp" alt="Python Data Analysis Dashboard" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
-                  <img src="/images/reccurenceanalyzer.png" alt="Angular Spring Application" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/dash.webp" alt="Python Data Analysis Dashboard" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
+                  <img src="images/reccurenceanalyzer.png" alt="Angular Spring Application" class="w-full h-full object-contain flex-shrink-0" style="object-fit: contain;" />
                 </div>
               </div>
             </div>
           </div>
           <div class="flex flex-wrap gap-4 mb-6 mt-6 justify-center" id="sfr-logos-row">
             <span id="sfr-logo-0" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/python.png" alt="Python" class="h-6 w-6 object-contain" /> Python
+              <img src="images/python.png" alt="Python" class="h-6 w-6 object-contain" /> Python
             </span>
             <span id="sfr-logo-1" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/angular.png" alt="Angular" class="h-6 w-6 object-contain" /> Angular
+              <img src="images/angular.png" alt="Angular" class="h-6 w-6 object-contain" /> Angular
             </span>
             <span id="sfr-logo-2" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/springboot.png" alt="Spring Boot" class="h-6 w-6 object-contain" /> Spring Boot
+              <img src="images/springboot.png" alt="Spring Boot" class="h-6 w-6 object-contain" /> Spring Boot
             </span>
             <span id="sfr-logo-3" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/mysql.png" alt="MySQL" class="h-6 w-6 object-contain" /> MySQL
+              <img src="images/mysql.png" alt="MySQL" class="h-6 w-6 object-contain" /> MySQL
             </span>
             <span id="sfr-logo-4" class="flex items-center gap-2 px-4 py-2 rounded-xl border border-neutral-700 bg-neutral-900/70 text-white text-base font-medium shadow transition-all duration-200">
-              <img src="/images/pandas.png" alt="Pandas" class="h-6 w-6 object-contain" /> Pandas
+              <img src="images/pandas.png" alt="Pandas" class="h-6 w-6 object-contain" /> Pandas
             </span>
           </div>
         </div>
